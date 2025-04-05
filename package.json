@@ -1,0 +1,17 @@
+{
+    "name": "3dos-airdrop",
+    "version": "1.0.0",
+    "description": "Dân Cày Airdrop Script",
+    "main": "dc.js",
+    "scripts": {
+      "start": "node dc.js"
+    },
+    "dependencies": {
+      "axios": "^1.6.8",
+      "colors": "^1.4.0",
+      "https-proxy-agent": "^7.0.4",
+      "luxon": "^3.4.4"
+    },
+    "author": "caobang",
+    "license": "MIT"
+  }
